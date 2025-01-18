@@ -108,7 +108,7 @@ Medicare-ChatBot/
 ## 🖼️ Demo  
 
 ### 🌟 ChatBot Interface:  
-![Chatbot Screenshot]([https://via.placeholder.com/800x400?text=Chatbot+Interface](https://github.com/durjaysamrat/Medicare-ChatBot/blob/main/IBM%20WATSON%20Web%20Page.png))  
+![Whatsapp UI](https://github.com/user-attachments/assets/f5686d2a-ff4e-4d9a-b956-7da40f6407bf)
 
 ---
 
